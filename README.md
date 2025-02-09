@@ -1,4 +1,4 @@
-# Building a RAG application
+# Building a RAG application ![Devbox](https://img.shields.io/badge/devbox-ready-blue)
 
 Building a simple RAG (Retrieval-Augmented Generation) application using OpenAI's API.
 
