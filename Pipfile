@@ -10,6 +10,7 @@ langchain = "*"
 langchain-openai = "*"
 pytube = "*"
 openai-whisper = {git = "https://github.com/openai/whisper.git"}
+ipykernel = "*"
 
 [dev-packages]
 
