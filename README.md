@@ -12,10 +12,22 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-3. Install the required dependencies by running the following command:
+3. (Optional) Alternatively, you can use devbox for environment management:
+```shell
+# Install devbox if not already installed
+curl -fsSL https://get.jetpack.io/devbox | bash
+
+# Start devbox shell
+devbox shell
+
+# Install dependencies
+devbox install
+```
+
+4. Install the required dependencies by running the following command:
 
 ```shell
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 4. Create a `.env` file in the root directory of your project.
