@@ -1,6 +1,0 @@
-python-dotenv
-openai 
-langchain
-langchain-openai
-pytube
-git+https://github.com/openai/whisper.git
